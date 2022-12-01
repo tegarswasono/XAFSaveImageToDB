@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XAFSaveImageToDB.Module", "XAFSaveImageToDB.Module\XAFSaveImageToDB.Module.csproj", "{F3AC75EB-0BD6-4BBE-990B-EDFB91167F77}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XAFSaveImageToDB.Module.Blazor", "XAFSaveImageToDB.Module.Blazor\XAFSaveImageToDB.Module.Blazor.csproj", "{5083DC35-5739-410A-AB05-146FFBC8D6A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XAFSaveImageToDB.Blazor.Server", "XAFSaveImageToDB.Blazor.Server\XAFSaveImageToDB.Blazor.Server.csproj", "{C823F1B3-5A68-4E16-9E38-77DE134B9A11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{F6210F9B-0645-4943-9900-D61D3A054EE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3AC75EB-0BD6-4BBE-990B-EDFB91167F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3AC75EB-0BD6-4BBE-990B-EDFB91167F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3AC75EB-0BD6-4BBE-990B-EDFB91167F77}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{F3AC75EB-0BD6-4BBE-990B-EDFB91167F77}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{F3AC75EB-0BD6-4BBE-990B-EDFB91167F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3AC75EB-0BD6-4BBE-990B-EDFB91167F77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5083DC35-5739-410A-AB05-146FFBC8D6A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5083DC35-5739-410A-AB05-146FFBC8D6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5083DC35-5739-410A-AB05-146FFBC8D6A7}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{5083DC35-5739-410A-AB05-146FFBC8D6A7}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{5083DC35-5739-410A-AB05-146FFBC8D6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5083DC35-5739-410A-AB05-146FFBC8D6A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C823F1B3-5A68-4E16-9E38-77DE134B9A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C823F1B3-5A68-4E16-9E38-77DE134B9A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C823F1B3-5A68-4E16-9E38-77DE134B9A11}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{C823F1B3-5A68-4E16-9E38-77DE134B9A11}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{C823F1B3-5A68-4E16-9E38-77DE134B9A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C823F1B3-5A68-4E16-9E38-77DE134B9A11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6210F9B-0645-4943-9900-D61D3A054EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6210F9B-0645-4943-9900-D61D3A054EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6210F9B-0645-4943-9900-D61D3A054EE4}.EasyTest|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6210F9B-0645-4943-9900-D61D3A054EE4}.EasyTest|Any CPU.Build.0 = Debug|Any CPU
+		{F6210F9B-0645-4943-9900-D61D3A054EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6210F9B-0645-4943-9900-D61D3A054EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E597E720-42CC-489B-9220-BF6F3ABE63AF}
+	EndGlobalSection
+EndGlobal
